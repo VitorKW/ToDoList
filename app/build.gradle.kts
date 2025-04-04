@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "br.edu.satc.todolistcompose"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "br.edu.satc.todolistcompose"
